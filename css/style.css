@@ -19,3 +19,9 @@
 .display-none {
     display: none;
 }
+.invisible {
+    visibility: hidden;
+}
+.opacity {
+    opacity: 0.5;
+}
