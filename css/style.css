@@ -1,0 +1,21 @@
+.box {
+    height: 200px;
+    border: 1px solid black;
+    padding: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.display-block {
+    display: block;
+
+}
+.display-inline-block {
+    display: inline-block;
+}
+.display-inline {
+    display: inline;
+}
+.display-none {
+    display: none;
+}
